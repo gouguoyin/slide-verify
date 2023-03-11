@@ -1,16 +1,16 @@
 {
-  "name": "vue3-puzzle-vcode",
+  "name": "slide-verify",
   "version": "1.0.8",
   "files": [
     "dist"
   ],
-  "module": "./dist/vue3-puzzle-vcode.es.js",
-  "main": "./dist/vue3-puzzle-vcode.umd.js",
+  "module": "./dist/slide-verify.es.js",
+  "main": "./dist/slide-verify.umd.js",
   "typings": "./dist/main.d.ts",
   "exports": {
     ".": {
-      "import": "./dist/vue3-puzzle-vcode.es.js",
-      "require": "./dist/vue3-puzzle-vcode.umd.js"
+      "import": "./dist/slide-verify.es.js",
+      "require": "./dist/slide-verify.umd.js"
     }
   },
   "scripts": {
