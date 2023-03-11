@@ -5,7 +5,7 @@
 ### 安装
 
 ```node
-  npm install slide-verify --save
+  npm install slide-verify-code --save
 ```
 
 ### 最简单例子
@@ -19,7 +19,7 @@
 
 <script setup>
 import {ref} from "vue";
-import Vcode from "slide-verify";
+import Vcode from "slide-verify-code";
 
 const isShow = ref(false);
 

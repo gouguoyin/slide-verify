@@ -1,6 +1,6 @@
 {
-  "name": "slide-verify",
-  "version": "1.0.8",
+  "name": "slide-verify-code",
+  "version": "1.0.0",
   "files": [
     "dist"
   ],
